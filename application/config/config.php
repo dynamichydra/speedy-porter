@@ -24,8 +24,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = '';
-$config['base_url'] = 'http://localhost/dokume-india/speedy_porter/';
- $config['base_url'] = 'https://courier.dokume.in/';
+// $config['base_url'] = 'http://localhost/dokume-india/speedy_porter/';
+ // $config['base_url'] = 'https://courier.dokume.in/';
+ $config['base_url'] = 'https://speeyporter.com/';
 
 /*
 |--------------------------------------------------------------------------
